@@ -1,3 +1,3 @@
-function logDriverNames() {
+function logDriverNames(driversArr) {
   
 }
