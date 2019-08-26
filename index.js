@@ -1,9 +1,9 @@
-const callback = function (el, i, arr) {
+const logNameCallback = function (el, i, arr) {
   console.log(el.name);
 };
 
 function logDriverNames(arr) {
-  arr.forEach(callback);
+  arr.forEach(logNameCallback);
 }
 
 function logDriversByHometown(arr) {
