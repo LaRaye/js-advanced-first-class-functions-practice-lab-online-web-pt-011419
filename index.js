@@ -11,3 +11,4 @@ function logDriversByHometown(arr, loc) {
   
   logDriverNames(hometownArr);
 }
+
