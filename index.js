@@ -7,5 +7,5 @@ function logDriverNames(arr) {
 }
 
 function logDriversByHometown(arr, loc) {
-  
+  arr.filter()
 }
