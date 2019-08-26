@@ -7,6 +7,5 @@ function logDriverNames(arr) {
 }
 
 function logDriversByHometown() {
-
   
 }
