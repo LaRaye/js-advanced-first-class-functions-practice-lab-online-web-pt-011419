@@ -15,5 +15,5 @@ function logDriversByHometown(arr, loc) {
 function driversByRevenue(arr) {
   ...arr.sort(function (a, b) {
     return a.revenue - b.revenue;
-  })
+  });
 }
