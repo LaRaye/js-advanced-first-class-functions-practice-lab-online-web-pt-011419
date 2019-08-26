@@ -7,5 +7,8 @@ function logDriverNames(arr) {
 }
 
 function logDriversByHometown(arr, loc) {
-  arr.filter( function (driver) {})
+  hometownArr = arr.filter( function (driver) {return driver.hometown === loc});
+  
+  return logDriverNames(hometownArr)
+  
 }
