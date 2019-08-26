@@ -6,6 +6,6 @@ function logDriverNames(arr) {
   arr.forEach(logNameCallback);
 }
 
-function logDriversByHometown(arr) {
+function logDriversByHometown(arr, loc) {
   
 }
